@@ -3,12 +3,22 @@ Our entry for Smart India Hackathon 2024.
 
 This project aims to utilize AI tools integrated with App development to tackle the problem of Women Safety Analytics.
 
+
 ### Note : This project is just an attempt/idea and does not claim to be the solution of above.
 
 ## This is achieved in three steps:
 1)  Using AI models to classify the number of males and females appearing in the camera feed.
 2)  Determine the sex ratio as males/females.
 3)  If higher than threshold (currently set to 1) , Notify the application user of potential danger.
+
+
+# Team Members
+1) Karan Malik (Team Leader)
+2) Avneesh Kumar
+3) Gokul Raj M
+4) Yash Mohan
+5) Sanmit Sarkar
+6) Nishtha Garg
 
 # Demonstration
 
